@@ -18,7 +18,7 @@ The website is a mockup of a fictitious marketing agency that is designing their
 
 ## Mock-Up
 Image of the website:
-![Horiseon website with blue header and blue text blocks containing images and information on search engines and advertisement practices.](./assets/images/README/Week01-Challenge-Mockup.png)
+![Horiseon website with blue header and blue text blocks containing images and information on search engines and advertisement practices.](./assets/images/Week01-Challenge-Mockup.png)
 
 ## Delpoyment
 This website has been delpoyed and can be viewed [here](https://jakebjackson.github.io/Horiseon-Bugfix-Project/).
